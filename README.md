@@ -1,97 +1,83 @@
 👋 Hi, I'm Sarmad Siddique
 Full-Stack AI Engineer • Full-Stack Developer • AI-Powered Systems
-I build production-grade web applications and AI-powered systems using modern full-stack architecture.
-My experience spans logistics, healthcare, laboratory systems, real-time applications, and AI-powered workflows.
+I build production-grade full-stack applications and AI-powered products using modern web architecture, real-time systems, and LLM integrations.
 Based in Pakistan.
 
 🚀 What I Build
-I focus on building production-ready full-stack and AI-powered applications, including:
-* Complex full-stack web applications
+I focus on building production-ready applications and AI-powered systems, including:
+* Full-stack web applications
 * AI-powered applications using LLMs
-* RAG and semantic search systems
+* RAG & semantic search systems
 * Agentic AI workflows
 * Real-time applications
-* Healthcare and laboratory software
-* REST and GraphQL APIs
-My work sits at the intersection of full-stack engineering and AI engineering, where solid software architecture meets practical AI integration.
+* Healthcare & laboratory software
+My work sits at the intersection of full-stack engineering and AI engineering, where scalable application architecture meets practical AI integration.
 
 🧠 Core Expertise
-Full-Stack Development
-React • Next.js • TypeScript • JavaScript • Node.js
-Backend & APIs
-Node.js • Express.js • NestJS • REST APIs • GraphQL • WebSockets • Server-Sent Events
-AI Engineering
-OpenAI APIs • LLM Integration • RAG • Embeddings • Vector Search • LangGraph • Agentic Workflows
-Databases
-PostgreSQL • MongoDB • Prisma • SQL
-Frontend Architecture
-Redux Toolkit • RTK Query • Apollo Client • React Hook Form • Zod • Tailwind CSS
-Real-Time Systems
-WebSockets • Socket.IO • Server-Sent Events
+Full-Stack Development React • Next.js • TypeScript • JavaScript • Node.js
+Backend & APIs Node.js • Express.js • NestJS • REST APIs • GraphQL • WebSockets
+AI Engineering OpenAI APIs • LLM Integration • RAG • Embeddings • Vector Search • LangGraph • Agentic Workflows
+Frontend Architecture Redux Toolkit • RTK Query • Apollo Client • React Hook Form • Zod • Tailwind CSS
+Databases PostgreSQL • MongoDB • Prisma • SQL
+Real-Time Systems WebSockets • Socket.IO • Server-Sent Events (SSE)
 
-🏗️ Featured Projects
+🏗 Featured Projects
 UltraShip — Transportation Management System
-A production Transportation Management System (TMS) built for logistics operations in the US market.
-I worked on complex frontend workflows and data-heavy operational modules using Next.js, TypeScript, GraphQL, Apollo Client, and AG Grid, integrated with a Spring Boot GraphQL backend.
+A production Transportation Management System (TMS) for managing complex logistics operations in the US market.
 Highlights:
 * Data-heavy operational modules using AG Grid Server-Side Row Model
 * Load management and logistics workflows
-* Multi-step email campaign functionality
+* Multi-step email campaign management
 * Campaign testing, sending, scheduling, and recurrence
 * Calendar-based activity management
 * Address autocomplete across the US, Canada, and Mexico
 * Loads and notes workflows
 * Rate Confirmation PDF generation
 * Reusable and validated form architecture
-* GraphQL integration using Apollo Client
-Tech Stack: Next.js • React • TypeScript • GraphQL • Apollo Client • AG Grid • Tailwind CSS • React Hook Form • Zod
+* GraphQL integration with backend services
+Tech Stack: Next.js • React • TypeScript • GraphQL • Apollo Client • AG Grid • React Hook Form • Zod • Tailwind CSS
 
-🩺 MediScribe — AI Clinical Scribe
-An AI-powered clinical documentation system designed to transform clinical conversations and patient context into structured medical documentation while keeping the doctor in control of the final output.
-Instead of treating the LLM as a simple chatbot, MediScribe uses an agentic workflow to collect clinical context, generate documentation, perform safety checks, and require human approval before persistence.
-Agent Workflow:
-Clinical Conversation → Patient Context → Encounter Context → Recent Labs → Prior Notes → Generate Note → Safety Review → Doctor Review → Save Note
+MediScribe — AI Clinical Scribe
+An AI-powered clinical documentation system designed to transform clinical conversations and patient context into structured medical documentation while keeping doctors in control of the final output.
 Highlights:
-* Multi-step AI workflow using LangGraph
+* Multi-step agentic workflow using LangGraph
 * Patient and encounter context retrieval
-* Recent laboratory result retrieval
-* Previous clinical note retrieval
+* Recent laboratory result and prior note retrieval
 * Structured clinical information extraction
-* AI-generated medical documentation
+* AI-generated clinical documentation
 * Safety review before doctor approval
-* Human-in-the-loop workflow
+* Human-in-the-loop approval workflow
 * PHI-aware LLM processing
 * Agent execution auditing
 * Real-time agent progress using Server-Sent Events
-* Doctor approval required before final persistence
+* Doctor approval before final persistence
 Tech Stack: TypeScript • Node.js • LangGraph • OpenAI • PostgreSQL • SSE • REST APIs
 
-🛠️ Technology Stack
-Frontend
-React • Next.js • TypeScript • JavaScript • Tailwind CSS
-State & Data
-Redux Toolkit • RTK Query • Apollo Client
-Backend
-Node.js • Express.js • NestJS • REST APIs • GraphQL
-Databases
-PostgreSQL • MongoDB • Prisma • SQL
-AI
-OpenAI • LangGraph • LLM Integration • RAG • Embeddings • Vector Search • AI Agents
-Real-Time
-WebSockets • Socket.IO • Server-Sent Events
-Tools
-Git • GitHub • Postman
+🛠 Technology Stack
+Frontend React • Next.js • TypeScript • JavaScript • Tailwind CSS
+Backend Node.js • Express.js • NestJS • REST APIs • GraphQL • WebSockets
+Databases PostgreSQL • MongoDB • Prisma • SQL
+State & Data Redux Toolkit • RTK Query • Apollo Client
+AI & Automation OpenAI APIs • LangGraph • RAG • Embeddings • Vector Search • LLM Integrations
+Real-Time & Others Socket.IO • Server-Sent Events • Git • GitHub • Postman
 
 🌍 Current Focus
 Right now I'm focused on building and improving:
-* Full-Stack AI applications
-* Production AI agents
-* RAG architectures
-* Agentic workflows
-* LLM reliability and safety
+* Full-stack AI products
+* AI-enabled applications
+* RAG-based systems
+* Agentic AI workflows
 * Scalable backend systems
-* Production-ready AI integrations
-My current direction is building systems where AI is part of the product architecture rather than just an API call.
+* Production-ready LLM integrations
 
-🌐 Portfolio • 💻 GitHub
-Open to Remote & International Full-Stack / AI Engineering opportunities.
+📫 Connect With Me
+🌐 Portfolio: sarmadsiddique.pages.dev 💻 GitHub: github.com/devxsarmad 💼 LinkedIn: linkedin.com/in/sarmad404
+
+⚡ Engineering Philosophy
+I believe great software comes from combining clean engineering, maintainable architecture, and practical problem-solving.
+My approach is simple:
+* Build systems that solve real problems
+* Keep architecture clean, modular, and maintainable
+* Design with scalability and performance in mind
+* Use AI where it creates real product value
+* Keep humans in control of high-impact AI decisions
